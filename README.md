@@ -32,14 +32,6 @@ Created just for fun and to learn more about Processing 😄.
 
 ---
 
-## 🖼 Screenshots
-
-*Add your screenshots in an `images` folder and reference them like this:*
-
-![ArtBrush Canvas](images/artbrush_screenshot.png)
-
----
-
 ## 💻 Installation / How to run
 
 1. Install **Processing**: [https://processing.org/download/](https://processing.org/download/)  
